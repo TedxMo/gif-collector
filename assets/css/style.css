@@ -1,0 +1,15 @@
+div {
+	text-align: center;
+}
+body{
+	background-color: skyblue;
+}
+.container{
+	background: white;
+}
+#start_btn{
+	font-size: 50px;
+}
+img{
+	width: 300px;
+}
